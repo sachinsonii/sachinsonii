@@ -35,8 +35,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinsonii&theme=radical" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsonii&layout=compact&theme=radical" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsonii&layout=compact&bg_color=f0f0f0" height="180px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinsonii&bg_color=f0f0f0&color=000000&line=00008b&point=FFD700&area=true&hide_border=true" height="180px" />
 </p>
 
 ---
