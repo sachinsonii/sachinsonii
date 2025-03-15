@@ -12,7 +12,7 @@
 ---
 
 ## 🛠 Tech Stack
-<img align="right" alt="Coding" width="300" height="260" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b952wd9c7hkrf8vw0u2ka4jef5gul30air9v87609h52&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" style = "border-radius: 75px">
+<img align="right" alt="Coding" width="300" height="265" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b952wd9c7hkrf8vw0u2ka4jef5gul30air9v87609h52&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" style = "border-radius: 75px">
 
 ### 🧠 **Artificial Intelligence & Machine Learning**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
