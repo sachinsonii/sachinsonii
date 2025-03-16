@@ -12,7 +12,7 @@
 ---
 
 ## 🛠 Tech Stack
-<img align="right" alt="Coding" width="300" height="268" src="hi.png" style = "border-radius: 75px">
+<img align="right" alt="Coding" width="300" height="268" src="giphy.gif" style = "border-radius: 75px">
 
 ### 🧠 **Artificial Intelligence & Machine Learning**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
