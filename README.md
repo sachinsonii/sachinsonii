@@ -27,7 +27,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 
 ### 🔧 **Development Tools & Platforms**  
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-fdaf1a?style=flat&logo=google-colab&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-0acadb?style=flat&logo=kaggle&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
