@@ -24,10 +24,11 @@
 ### 📊 **Data Science & Analytics**  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=chartdotjs&logoColor=white)
 
 ### 🔧 **Development Tools & Platforms**  
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-fdaf1a?style=flat&logo=google-colab&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-008dce?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-0acadb?style=flat&logo=kaggle&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
