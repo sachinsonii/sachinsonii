@@ -1,4 +1,7 @@
-<h1 align="center">👋 I'm Sachin Soni</h1>
+<h1 align="center">
+  👋 I'm <code>Sachin Soni</code>
+</h1>
+
 <h3 align="center">Computer Science Researcher | AI/ML Developer</h3>
 
 <p align="center">
