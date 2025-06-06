@@ -92,7 +92,7 @@ A **hybrid AI model** using **XGBoost + LSTM** for **energy consumption forecast
 📌 **Conference:** DONBOSCODELHI-24, 2024  
 🧠 **Reinforcement Learning** in real-world **problem-solving.**  
 🔗 **Read More:**  
-<a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.174888496.68919781/v1">
+<a href="https://doi.org/10.36227/techrxiv.174888496.68919781/v1">
   <img src="https://img.shields.io/badge/View%20Paper-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white">
 </a>
 
